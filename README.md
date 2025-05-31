@@ -113,7 +113,7 @@ A full PDF report is included in this repository. It contains:
 
 ---
 
-## 📚 References
+## References
 
 - [Kaggle IMDB Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
