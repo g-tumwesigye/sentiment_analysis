@@ -18,10 +18,10 @@ This project focuses on **Sentiment Analysis** using the IMDB 50K movie reviews 
 
 | Name                     | Role / Contribution                                  |
 |--------------------------|------------------------------------------------------|
-| **John Deng Madit Akech*   | Data loading, cleaning, EDA, word count, handoff     |
+| **John Deng Madit Akech**   | Data loading, cleaning, EDA, word count, handoff     |
 | **Makuach Teny Gatluak**| Traditional ML model (Naïve Bayes/SVM + TF-IDF)      |
 | **Geofrey Tumwesigye** | Deep Learning model (LSTM or GRU + Word Embeddings)  |
-| **Peris Nyawira Wangui* | Experiment tables, results discussion, report writing|
+| **Peris Nyawira Wangui** | Experiment tables, results discussion, report writing|
 
 ---
 
