@@ -16,12 +16,15 @@ This project focuses on **Sentiment Analysis** using the IMDB 50K movie reviews 
 
 ## Team Members
 
-| Name                     | Role / Contribution                                  |
-|--------------------------|------------------------------------------------------|
-| **Geofrey Tumwesigye**   | Data loading, cleaning, EDA, word count, handoff     |
-| **Peris Nyawira Wangui**| Traditional ML model (Naïve Bayes/SVM + TF-IDF)      |
-| **John Deng Madit Akech** | Deep Learning model (LSTM or GRU + Word Embeddings)  |
-| **Makuach Teny Gatluak** | Experiment tables, results discussion, report writing & submission of the assignment|
+## Team Contribution
+
+| Name     | Contribution                                                                 |
+|----------|------------------------------------------------------------------------------|
+| Geofrey  | Data cleaning, visualization, preprocessing, and Model 1 (TF-IDF + Logistic Regression), including hyperparameter tuning with GridSearchCV. |
+| Peris    | Implemented Model 2 using a Naive Bayes classifier and compared performance with Model 1. |
+| Aketch   | Built deep learning model using Adam optimizer, evaluated and interpreted results. |
+| Teny     | Built deep learning model using RMSprop optimizer, handled final report writing and submission. |
+
 
 ---
 
