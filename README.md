@@ -49,12 +49,12 @@ This project focuses on **Sentiment Analysis** using the IMDB 50K movie reviews 
 ## Models Implemented
 
 1. **Traditional Machine Learning**
-   - Naïve Bayes / SVM
-   - TF-IDF Vectorization
+   - Naïve Bayes 
+   - TF-IDF Vectorization & hyperparameter tuning with GridSearchCV.
 
 2. **Deep Learning**
-   - LSTM / GRU
-   - Word Embeddings (GloVe / Word2Vec)
+   - Adam Optimizer
+   - RMSprop
 
 ---
 
@@ -64,7 +64,7 @@ Two experiment tables are included in the report comparing:
 - Learning rate variations
 - Batch sizes
 - Optimizers
-- Feature extraction methods (TF-IDF vs GloVe)
+- Feature extraction methods 
 
 ---
 
@@ -74,7 +74,7 @@ Two experiment tables are included in the report comparing:
 - F1-Score
 - Precision
 - Confusion Matrix
-- Cross-Entropy Loss (for deep models)
+- Cross-Entropy Loss 
 
 ---
 
