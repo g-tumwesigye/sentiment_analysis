@@ -22,7 +22,7 @@ This project focuses on **Sentiment Analysis** using the IMDB 50K movie reviews 
 |----------|------------------------------------------------------------------------------|
 | Geofrey  | Data cleaning, visualization, preprocessing, and Model 1 (TF-IDF + Logistic Regression), including hyperparameter tuning with GridSearchCV. |
 | Peris    | Implemented Model 2 using a Naive Bayes classifier and compared performance with Model 1. |
-| Aketch   | Built deep learning model using Adam optimizer, evaluated and interpreted results. |
+| Akech   | Built deep learning model using Adam optimizer, evaluated and interpreted results. |
 | Teny     | Built deep learning model using RMSprop optimizer, handled final report writing and submission. |
 
 
